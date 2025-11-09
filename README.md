@@ -2,6 +2,8 @@
 
 Command-Line version of an expense tracker. Built with Python, featuring modular design, reporting and export options.
 
+![Home view](Screenshots/ETC1.png)
+
 ---
 
 ## Technologies & Requirements
@@ -98,6 +100,8 @@ Output:
 -   List → array of objects with keys id, date, category, amount, note
 -   Report category → array of objects with keys category, total, count, pct_total
 -   Report range → object {total, count, avg}
+
+![Home view](Screenshots/ETC2.png)
 
 ---
 
